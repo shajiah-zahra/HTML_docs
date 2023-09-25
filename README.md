@@ -1,2 +1,2 @@
 # HTML_docs
-contain codes of assignments of html course by Syeda shajiah zahra Zaidi on social media channel  
+Some simple HTML Codes for understanding basics and Notes during Bachelors degree.
